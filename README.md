@@ -35,22 +35,16 @@ I'm a final-year Computer Science Engineering student with a passion for creatin
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-<br>
-
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-<br>
-
 ### Design
 
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC)
-
-<br>
 
 ### Tools
 
@@ -110,9 +104,6 @@ React • Node.js • Express.js • MongoDB
 <a href="https://www.linkedin.com/in/christina-phoebe-433737330/">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-
-&nbsp;&nbsp;
-
 <a href="mailto:chrisvedhanayagam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
