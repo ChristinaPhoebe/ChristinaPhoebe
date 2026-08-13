@@ -7,6 +7,16 @@
 <p align="center">
   Turning ideas into deployed products that are simple, functional, and meaningful.
 </p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/christina-phoebe-433737330/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:chrisvedhanayagam@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
 
 <br>
 
@@ -97,16 +107,3 @@ React • Node.js • Express.js • MongoDB
 </table>
 
 <br>
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/christina-phoebe-433737330/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="mailto:chrisvedhanayagam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-</div>
