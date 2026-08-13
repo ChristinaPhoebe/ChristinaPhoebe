@@ -8,13 +8,6 @@
   Turning ideas into deployed products that are simple, functional, and meaningful.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/christina-phoebe-433737330/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:chrisvedhanayagam@gmail.com">Email</a>
-  &nbsp; &nbsp;
-</p>
-
 <br>
 
 ## About Me
