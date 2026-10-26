@@ -5,7 +5,7 @@
 <h1 align="center">Hello, I'm Christina Phoebe</h1>
 
 <p align="center">
-  Turning ideas into deployed products that are simple, functional, and meaningful.
+  I Turn ideas into deployed products that are simple, functional, and meaningful.
 </p>
 <div align="center">
 
